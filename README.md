@@ -30,13 +30,28 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+   Answer: 
+          A data representation of the objects (content & structure) that make up a document on the internet.
+          
 2. What is an event?
+
+   Answer:
+          Events are occurances and/or actions that happen in a program (or a web page) that the system has been instructed to watch for and carry out an action in response.
 
 3. What is an event listener?
 
+   Answer:
+          An event listener is an object/function that can watch for a particular action/occurance and execute code in response.
+
 4. Why would we convert a NodeList into an Array?
 
+   Answer:
+          This conversion allows the use of array methods that are not available to a NodeList.
+
 5. What is a component?
+
+   Answer:
+          A component is a discrete piece of code that can be reused to replicate functionality across different programs.
 
 ### Git Set up
 
