@@ -10,8 +10,6 @@
 
 const tabBar = document.querySelector('.topics');
 
-console.log(tabBar);
-
 axios.get('https://lambda-times-backend.herokuapp.com/topics')
     .then(response => {
         
